@@ -1,5 +1,5 @@
 {
-  "name": "node-sass-chokidar",
+  "name": "@trmediaab/tr-node-sass-chokidar",
   "version": "1.4.0",
   "description": "A thin wrapper around node-sass to replicate the --watch --recursive but with chokidar instead of Gaze",
   "bin": {
